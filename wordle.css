@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color : rgb(51 0 255);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 10vh;
+}
+h2{
+    color : rgb(51 0 255);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    background: url('wordoooo.jpg') no-repeat;
+    background-size: cover;
+}
+#main{
+    background-color: black;
+    height: 80vh;
+    width: 80vw;
+    display: grid;
+    margin: 0px auto;
+    padding: 20px 0px;
+}
+p{
+    font-size: 34px;
+    font-weight: bolder ;
+    color:rgb(118, 1, 1);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#cola{
+    display: flex;
+}
+#colb{
+    display: flex;
+}
+#colc{
+    display: flex;
+}
+#cold{
+    display: flex;
+}
+#cole{
+    display: flex;
+}
+#aa{
+        background-color: rgb(255, 253, 253);
+        width: 8vh;
+        height: 8vh;
+        margin: 0px auto;
+
+}
+#ab{
+   background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ac{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ad{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ae{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ba{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#bb{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#bc{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#bd{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#be{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ca{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#cb{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#cc{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#cd{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ce{
+    background-color: rgb(255, 253, 253);
+     width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#da{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#db{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#dc{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#dd{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#de{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ea{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#eb{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ec{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ed{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+#ee{
+    background-color: rgb(255, 253, 253);
+    width: 8vh;
+    height: 8vh;
+    margin: 0px auto;
+}
+
